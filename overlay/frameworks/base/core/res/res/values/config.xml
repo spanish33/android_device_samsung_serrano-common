@@ -248,8 +248,8 @@
     <!-- Integer to configure panel auto brightness mode when changed -->
     <integer name="config_panelAutoBrightnessValue">1</integer>
 
-    <!-- Device supports LED flashlight -->
-    <bool name="config_enableTorch">true</bool>
+    <!-- Device supports LED flashlight 
+    <bool name="config_enableTorch">true</bool> -->
 
     <!-- Flag indicating whether the RIL_REQUEST_SEND_SMS_EXPECT_MORE
          API should be used or not. The usage of the API is added
